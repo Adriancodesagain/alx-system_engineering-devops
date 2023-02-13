@@ -1,1 +1,2 @@
-task o about where am i
+shell redirections tasks
+
